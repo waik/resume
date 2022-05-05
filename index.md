@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+![Image](https://lh6.googleusercontent.com/l-QRzjNJbeUClGtIFr0uoajo5_WGqSz64BVktv7ZGK6pVtH9xcFsu8HBkzcui6WH0_U9B4GrpgU_kIp6PQG_X7JW-Lloiz8qI9jRVD8D7LAz6O14ki_q-4YBb15qY9wSag=w1676)
 
-You can use the [editor on GitHub](https://github.com/waik/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### We are excited to celebrate our wedding with you 👐
+On Friday 2nd September at Lola's for evening drinks ([Mauritskade 100-A H, 1093 RR Amsterdam](https://g.page/lolathegreenaardvark?share)).<br>
+On Saturday 3rd September at De Hoop for the wedding ([Weesperzijde 1046-A, 1091 EH Amsterdam](https://goo.gl/maps/anqZvuD9gFH6gyTg7)).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this page is to:
+1. Let us know you are coming
+2. Where to sleep 
+3. What else you can do in Amsterdam
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 1. Let us know you are coming *before 31st May 2022* 
 
-```markdown
-Syntax highlighted code block
+Let us know with whom you are coming with, dietary requirements and your personal email by clicking here >> [Confirm attendance now](https://forms.gle/4CiztD9QtkHhpb168)
 
-# Header 1
-## Header 2
-### Header 3
+## 2. Where to sleep
 
-- Bulleted
-- List
+The venues for Friday & Saturday are both located in Amsterdam Oost, 10 min by bus from Centraal Station.
+You can travel everywhere across Amsterdam by bike, bus, tram within 25min.
+Well-situated hotels nearby the venues:
+- https://www.hotelarena.nl/ (Next to Oosterpark. Cool for kids)
+- https://www.volkshotel.nl/
+- https://www.thestudenthotel.com/amsterdam-city
+- https://staygenerator.com/
+- http://www.amsterdamtropenhotel.com/ 
+- https://www.themanorhotelamsterdam.com/
+- https://yays.com/cities/amsterdam/east/amsterdam-east-apartments/ (Kids friendly)
+- http://www.pensionhomeland.com/
+- http://www.kanteen25.nl/
+- https://hoteljakarta.nl/ (Kids friendly)
 
-1. Numbered
-2. List
+Or you can find other accommodations all across Amsterdam and the travel is never long. Get a rental bike but Uber is available too.
 
-**Bold** and _Italic_ and `Code` text
+**Note: Parking in Amsterdam** is quite pricey and while most Hotels offer secure on-site parking for a fee, please consider Park & Ride. Amsterdam has excellent options: https://www.amsterdam.nl/en/parking/park-ride/
 
-[Link](url) and ![Image](src)
-```
+**Are you coming alone?** If you want to share a room with another guest do send us a text +31614470768 (Isella) so we can add you to a Whatsapp group to orchestrate.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 3. What else to do in Amsterdam
 
-### Jekyll Themes
+Amsterdam is a great city to enjoy the outdoors as a grown up but also as family with little ones.
+- Do go and enjoy Oosterpark with bird watching, kids playgrounds, or just chilling and watching the Dutch being Dutch (Oosterpark, 1012 AA Amsterdam)
+- Fancy a beer in the sun while facing the Amsterdam Zoo (Artis) http://www.cafegollem.nl/
+- Wanna go swimming in front of a huge pirate ship? Explore the http://www.hetscheepvaartmuseum.nl/ & https://www.marineterrein.nl/project/swimming-in-water/
+- Soak in the sun & watch the boats at http://www.hannekesboom.nl/ just behind the Marineterrein <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/waik/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+More ideas? check out https://www.iamsterdam.com/en
 
-### Support or Contact
+All final details will be send out a few days before.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Can't wait to party with you!
+### I. S.
