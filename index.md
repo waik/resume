@@ -19,16 +19,16 @@ Let us know with whom you are coming with, dietary requirements and your persona
 The venues for Friday & Saturday are both located in Amsterdam Oost, 10 min by bus from Centraal Station.
 You can travel everywhere across Amsterdam by bike, bus, tram within 25min.
 Well-situated hotels nearby the venues:
-- https://www.hotelarena.nl/ (Next to Oosterpark. Cool for kids)
-- https://www.volkshotel.nl/
-- https://www.thestudenthotel.com/amsterdam-city
-- https://staygenerator.com/
-- http://www.amsterdamtropenhotel.com/ 
-- https://www.themanorhotelamsterdam.com/
-- https://yays.com/cities/amsterdam/east/amsterdam-east-apartments/ (Kids friendly)
-- http://www.pensionhomeland.com/
-- http://www.kanteen25.nl/
-- https://hoteljakarta.nl/ (Kids friendly)
+- [https://www.hotelarena.nl/](https://www.hotelarena.nl/) (Next to Oosterpark. Cool for kids)
+- [https://www.volkshotel.nl/](https://www.volkshotel.nl/)
+- [https://www.thestudenthotel.com/amsterdam-city](https://www.thestudenthotel.com/amsterdam-city)
+- [https://staygenerator.com/](https://staygenerator.com/)
+- [http://www.amsterdamtropenhotel.com/ ](http://www.amsterdamtropenhotel.com/ )
+- [https://www.themanorhotelamsterdam.com/](https://www.themanorhotelamsterdam.com/)
+- [https://yays.com/cities/amsterdam/east/amsterdam-east-apartments/](https://yays.com/cities/amsterdam/east/amsterdam-east-apartments/) (Kids friendly)
+- [http://www.pensionhomeland.com/](http://www.pensionhomeland.com/)
+- [http://www.kanteen25.nl/](http://www.kanteen25.nl/)
+- [https://hoteljakarta.nl/](https://hoteljakarta.nl/) (Kids friendly)
 
 Or you can find other accommodations all across Amsterdam and the travel is never long. Get a rental bike but Uber is available too.
 
